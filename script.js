@@ -1,4 +1,4 @@
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://finora-money-manager.onrender.com";
 
 Those **must not be inside a `.js` file**. That's why the Save code isn't running.
 
