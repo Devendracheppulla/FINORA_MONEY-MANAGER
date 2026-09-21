@@ -10,7 +10,7 @@ Delete everything currently inside `script.js` and paste **only this**:
 
 :::writing{variant="standard" id="74216" title="FINORA clean script.js"}
 ```javascript
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://finora-money-manager.onrender.com";
 
 // ===============================
 // TRANSACTION MODAL
